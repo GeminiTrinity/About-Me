@@ -1,14 +1,22 @@
 .portfolio {
     margin-top: 20px;
 }
-h1 {
-    margin-bottom: 50px;
+
+.header {
+    font-family: 'Play', sans-serif;
+    font-weight: bold;
+}
+.article {
+    font-family: 'Play', sans-serif;
+    font-size: 18px;
+}
+.nav {
     font-family: 'Play', sans-serif;
 }
-p {
-    word-wrap: initial; 
+
+.section {
     font-family: 'Play', sans-serif;
-}
-.font {
-    
+    text-align: center;
+    font-size: 18px;
+    margin-top: 80px;
 }
