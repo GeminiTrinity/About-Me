@@ -9,6 +9,7 @@
 .article {
     font-family: 'Play', sans-serif;
     font-size: 18px;
+    margin-top: 30px;
 }
 .nav {
     font-family: 'Play', sans-serif;
@@ -18,5 +19,14 @@
     font-family: 'Play', sans-serif;
     text-align: center;
     font-size: 18px;
-    margin-top: 80px;
+    margin-top: 40px;
+}
+
+li  {
+    text-align: center;
+    list-style-type: none;
+}
+
+ul  {
+    text-align: center;
 }
