@@ -1,32 +1,55 @@
+/* Learned background image from https://www.w3schools.com/cssref/pr_background-image.asp */
+body  {
+    background-image: url("https://lh3.googleusercontent.com/proxy/Z6SgsjIIIHkkrJE2fKTPEylqA-5rxgxw6wNAMs4rSlHPmTsWUUHMihyC-P_MbOD4QZd95S0HRiOi-eQRtNpj");
+    font-family: 'Play', sans-serif;
+  }
+
 .portfolio {
     margin-top: 20px;
+    margin-left: 80px;
 }
 
-.header {
-    font-family: 'Play', sans-serif;
+/* Received fonts from http://www.fonts.google.com */
+
+.navheader {
+    
     font-weight: bold;
 }
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
 .article {
-    font-family: 'Play', sans-serif;
     font-size: 18px;
     margin-top: 30px;
 }
-.nav {
-    font-family: 'Play', sans-serif;
+.contact {
+    margin-left: 160px;
 }
 
 .section {
-    font-family: 'Play', sans-serif;
     text-align: center;
     font-size: 18px;
     margin-top: 40px;
 }
 
+/* Learned list style type from https://www.bitdegree.org/learn/css-list-style */
 li  {
     text-align: center;
     list-style-type: none;
 }
-
+ */
 ul  {
     text-align: center;
+}
+
+.form {
+    font-family: 'Play', sans-serif;
+    font-size: 18px;
+}
+
+.container {
+    margin-top: 30px;
+    background-color: #F8F9FA;
 }
