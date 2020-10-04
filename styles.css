@@ -1,6 +1,5 @@
-/* Learned background image from https://www.w3schools.com/cssref/pr_background-image.asp */
 body  {
-    background-image: url("https://lh3.googleusercontent.com/proxy/Z6SgsjIIIHkkrJE2fKTPEylqA-5rxgxw6wNAMs4rSlHPmTsWUUHMihyC-P_MbOD4QZd95S0HRiOi-eQRtNpj");
+    background-color: black;
     font-family: 'Play', sans-serif;
   }
 
@@ -12,20 +11,20 @@ body  {
 /* Received fonts from http://www.fonts.google.com */
 
 .navheader {
-    
     font-weight: bold;
 }
 
 h1 {
     font-weight: bold;
     text-align: center;
+    margin-bottom: 30px;
 }
 .article {
     font-size: 18px;
     margin-top: 30px;
 }
 .contact {
-    margin-left: 160px;
+    margin-left: 170px;
 }
 
 .section {
@@ -39,7 +38,7 @@ li  {
     text-align: center;
     list-style-type: none;
 }
- */
+
 ul  {
     text-align: center;
 }
@@ -50,6 +49,12 @@ ul  {
 }
 
 .container {
-    margin-top: 30px;
+    margin-top: 80px;
     background-color: #F8F9FA;
 }
+
+/* footer {
+    margin-top: 100px;
+    text-align: center;
+    background-color: #F8F9FA;
+} */
